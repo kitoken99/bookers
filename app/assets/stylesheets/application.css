@@ -48,3 +48,25 @@ a{
 a:visited{
   color: #666;
 }
+.error_box{
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+.error_box h2{
+  color: white;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  text-align: left;
+  font-weight: bold;
+  margin: -7px;
+  margin-bottom: 0;
+  background-color: #c00;
+}
+.error_field{
+  padding: 2px;
+  background-color: red;
+  display:table;
+}
